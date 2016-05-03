@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./archivfrkatholi09unkngoog_0003.png"; bbox 0 0 771 1227; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 274 89 524">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 274 89 524">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 274 89 524; baseline 0 703"><span class='ocrx_word' id='word_1_1' title='bbox 0 274 89 524; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 193 569 531 587">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 193 569 531 587">
+     <span class='ocr_line' id='line_1_2' title="bbox 193 569 531 587; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 193 569 327 587; x_wconf 84' lang='lat' dir='ltr'>HARVARD</span> <span class='ocrx_word' id='word_1_3' title='bbox 342 569 400 587; x_wconf 85' lang='lat' dir='ltr'>LAW</span> <span class='ocrx_word' id='word_1_4' title='bbox 415 569 531 587; x_wconf 81' lang='lat' dir='ltr'>LIBRARY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 174 808 409 833">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 174 808 409 833">
+     <span class='ocr_line' id='line_1_3' title="bbox 174 808 409 833; baseline 0 -4"><span class='ocrx_word' id='word_1_5' title='bbox 174 817 235 829; x_wconf 55' lang='lat' dir='ltr'>Reae-ven</span> <span class='ocrx_word' id='word_1_6' title='bbox 254 808 298 828; x_wconf 73' lang='grc' dir='ltr'>ΑΗΕ</span> <span class='ocrx_word' id='word_1_7' title='bbox 319 811 330 829; x_wconf 82' lang='lat'>5</span> <span class='ocrx_word' id='word_1_8' title='bbox 366 812 409 833; x_wconf 80' lang='lat'>1925</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
